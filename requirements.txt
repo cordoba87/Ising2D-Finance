@@ -1,0 +1,13 @@
+# Market analysis notebooks (notebooks/01_*.ipynb, notebooks/02_*.ipynb)
+numpy
+pandas
+scipy
+matplotlib
+yfinance
+requests
+lxml
+html5lib
+# Vector PDF export of the figures (plt.savefig(..., backend="cairo"))
+pycairo
+# Running the notebooks
+jupyterlab
