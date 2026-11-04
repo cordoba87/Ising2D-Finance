@@ -6,7 +6,7 @@
 ![Python](https://img.shields.io/badge/python-3-3776ab?logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-notebooks-f37626?logo=jupyter&logoColor=white)
 
-Mario Córdoba Burgueño · BSc in Physics, Universidad Complutense de Madrid · April 2026
+Mario Córdoba Burgueño · April 2026
 
 ---
 
